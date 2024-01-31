@@ -2,6 +2,8 @@
 
 ⚠️**Si vous êtes épileptique ou que vous avez déjà eu des convulsions, veuillez faire très attention en ouvrant le site web (la vidéo en arrière plan comporte des éléments déclancheurs).** ⚠️
 
+---
+
 **IN ENGLISH**
 
 HTML: Structure of the web page.
