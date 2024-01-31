@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Chiffreur de Messages</title>
+    <link href="https://fonts.googleapis.com/css2?family=Almendra&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <video autoplay muted loop>
+        <source src="nosignal.mp4" type="video/mp4">
+    </video>
+
+    <h1>Chiffreur de Messages</h1>
+    <label for="message">Votre Message :</label>
+    <input type="text" id="message" placeholder="Entrez votre message" required/>
+    <br>
+    <label for="shift">Clé de Chiffrage :</label>
+    <input type="number" id="shift" placeholder="Entrez un nombre réel" required/>
+    <br>
+    
+    <div class="button-container">
+        <button class="blue-button" onclick="encryptMessage()">Chiffrer</button>
+        <button class="red-button" onclick="encryptMessage()">Déchiffrer</button>
+    </div>
+    
+    <br>
+
+    <div class="result">
+        <p>Message chiffré :</p>
+        <p id="encryptedMessage"></p>
+        <p id="decryptionShift"></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
