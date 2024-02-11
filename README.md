@@ -1,4 +1,4 @@
-<img width="1440" alt="image" src="https://github.com/Gotolib/Encrypted-message/assets/155028322/d383cda8-cafb-4962-bc0a-37d3828539ca">
+<img width="1440" alt="image" src="https://github.com/Gotolib/Encrypted-message/assets/155028322/ee4096ab-be4d-44b0-9bf6-f3733c580d5c">
 
 ⚠️**If you have epilepsy or have ever had seizures, please be very careful when opening the website (the video in the background contains triggering elements).** ⚠️
 
